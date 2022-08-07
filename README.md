@@ -1,6 +1,10 @@
 <h1>Hi, I'm Jason! </h1>
 <h2><a href="https://www.linkedin.com/in/joshmadakor/">Information Technology Graduate student</a> and Cyber Security Enthusiast. </h2>
 
+<h2>Degrees and Certifications:</h2>
+- Bachelors of Science, Management Information Systems<br/>
+- Comptia Security+<b>
+
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
 
