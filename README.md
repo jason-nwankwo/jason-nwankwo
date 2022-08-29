@@ -9,7 +9,7 @@
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
 - Active Directory Lab with Powershell
-- <a href="https://github.com/jason-nwankwo/Nessus-Vuln/blob/main/README.md">Vulnereablilty Management with Nessus</a>
+- <a href="https://github.com/jason-nwankwo/Nessus-Vuln/blob/main/README.md">Vulnerablilty Management with Nessus</a>
 - Setup Microsoft Sentinel(SIEM) on Azure
 
 <h2> 🤳 Connect with me:</h2>
