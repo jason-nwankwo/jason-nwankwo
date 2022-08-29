@@ -8,7 +8,7 @@
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
-- Active Directory Lab with Powershell
+- <a href="https://github.com/jason-nwankwo/ADPS_LAB">Active Directory Lab with Powershell</a>
 - <a href="https://github.com/jason-nwankwo/Nessus-Vuln/blob/main/README.md">Vulnerablilty Management with Nessus</a>
 - Setup Microsoft Sentinel(SIEM) on Azure
 
